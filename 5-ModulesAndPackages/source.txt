@@ -1,0 +1,2 @@
+HI there.
+This is a sample file created to use the shutil library and specialy to use shutil copy
