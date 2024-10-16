@@ -3,4 +3,4 @@ Re-written this file content by opening in 'w' mode
 Second line after opening the file
 Opened the file using 'a' mode
 Writing data in the file using 'a' mode
-Guess all the data was there
+Guess all the data was there ther
